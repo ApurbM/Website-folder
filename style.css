@@ -250,8 +250,8 @@ margin-right: auto;
 }
 .box2 .bx-cart-alt{
       position:absolute;
-      bottom:0;
-      right:0;
+      bottom:1rem;
+      right:1rem;
       padding:1rem;
       font-size:25px;
       background: #05ed20;
